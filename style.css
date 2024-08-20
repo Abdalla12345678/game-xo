@@ -1,9 +1,9 @@
 .game{
     width: 255px;
     text-align: center;
-    font-family: system-ui, system-ui;
-    color: #ffffff;
+    font-family: system-ui;
     margin: auto;
+    color: white;
     font-weight: 500;
 }
 .title{
@@ -25,4 +25,7 @@ span{
 .square:hover{
     background-color: #00ff7373;
     cursor: pointer;
+}
+body{
+    background-color: aquamarine;
 }
